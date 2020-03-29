@@ -11,4 +11,3 @@ This code example is for article on https://blog.sufrago.com/net-core-3-1-webapi
 - .NET Core 3.1
 - Local MYSQL running in docker for development.
 - Entity Framework Core
-
