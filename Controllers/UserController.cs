@@ -24,11 +24,11 @@ namespace user_netcore.Controllers
 
         }
 
-        [HttpGet("noDb")]
+        [HttpGet("getOne")]
         public async Task<ActionResult<GetUserDto>> GetOneAsync()
         {
 
-            return Ok(await userService.getNoDb());
+            return Ok(await userService.getOne());
 
         }
     }

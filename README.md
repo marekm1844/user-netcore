@@ -4,7 +4,7 @@
 # .NET Core 3.1 with MySQL
 
 
-This code example is for article on https://blog.sufrgo.com.
+This code example is for article on https://blog.sufrago.com/net-core-3-1-webapi-with-entity-framework-core/
 
 
 ## Used technologies:

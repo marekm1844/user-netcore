@@ -7,6 +7,6 @@ namespace user_netcore.Services
     public interface IUserService
     {
         Task<List<GetUserDto>> get();
-        Task<GetUserDto> getNoDb();
+        Task<GetUserDto> getOne();
     }
 }
